@@ -1,2 +1,4 @@
-# salvar_arquivo
-Salvamento de arquivo automatico
+ATENÇÃO
+
+BAIXAR AS BIBLIOTECAS PARA QUE O CÓDIGO RODE CORRETAMENTE:
+pip install pyautogui pyscreeze pillow opencv-python numpy mouseinfo pandas openpyxl watchdog
